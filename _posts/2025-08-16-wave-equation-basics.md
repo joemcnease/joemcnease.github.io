@@ -1,6 +1,6 @@
 ---
 layout: post
-title: wave-equation-basics
+title: "Wave Equation Basics"
 ---
 
 This is the wave equation for general anisotropic elastic media:
