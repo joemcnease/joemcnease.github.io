@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: Joe McNease's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+<ul>
+  {% for post in site.posts &}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
