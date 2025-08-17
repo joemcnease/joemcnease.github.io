@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Home
+layout: home
+title: "Home"
 ---
 
 # My Blog
