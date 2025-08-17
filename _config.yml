@@ -1,3 +1,7 @@
 theme: minima
 title: Joe McNease's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
